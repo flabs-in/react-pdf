@@ -1,5 +1,16 @@
 # @react-pdf/textkit
 
+## 7.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/fns@4.0.0
+
 ## 6.0.0
 
 ### Major Changes

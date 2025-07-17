@@ -1,5 +1,11 @@
 # @react-pdf/png-js
 
+## 4.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
 ## 3.0.0
 
 ### Major Changes

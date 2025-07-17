@@ -1,5 +1,18 @@
 # @react-pdf/types
 
+## 3.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/font@5.0.0
+  - @react-pdf/primitives@5.0.0
+  - @react-pdf/stylesheet@7.0.0
+
 ## 2.9.0
 
 ### Minor Changes

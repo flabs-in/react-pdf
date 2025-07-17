@@ -1,5 +1,11 @@
 # @react-pdf/fns
 
+## 4.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
 ## 3.1.2
 
 ### Patch Changes

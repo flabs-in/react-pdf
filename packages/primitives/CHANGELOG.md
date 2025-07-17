@@ -1,5 +1,11 @@
 # @react-pdf/primitives
 
+## 5.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
 ## 4.1.1
 
 ### Patch Changes

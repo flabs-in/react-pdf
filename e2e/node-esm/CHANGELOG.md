@@ -1,5 +1,16 @@
 # @react-pdf/e2e-node-esm
 
+## 3.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/renderer@5.0.0
+
 ## 2.0.22
 
 ### Patch Changes

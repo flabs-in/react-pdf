@@ -1,5 +1,19 @@
 # @react-pdf/render
 
+## 5.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/fns@4.0.0
+  - @react-pdf/primitives@5.0.0
+  - @react-pdf/textkit@7.0.0
+  - @react-pdf/types@3.0.0
+
 ## 4.3.0
 
 ### Minor Changes

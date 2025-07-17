@@ -1,5 +1,11 @@
 # @react-pdf/reconciler
 
+## 2.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
 ## 1.1.4
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # next-14
 
+## 1.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/renderer@5.0.0
+
 ## 0.1.15
 
 ### Patch Changes

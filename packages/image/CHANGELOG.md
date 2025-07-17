@@ -1,5 +1,16 @@
 # @react-pdf/image
 
+## 4.0.0
+
+### Major Changes
+
+- change to accomodate yoga-bug
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @react-pdf/png-js@4.0.0
+
 ## 3.0.3
 
 ### Patch Changes
